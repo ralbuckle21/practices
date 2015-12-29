@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\bin\Debug\Myform6.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\bin\Debug\Myform6.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\Myform6.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\Myform6.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\Myform6.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\Myform6.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform6\Myform6\obj\Debug\Myform6.pdb
+C:\Users\lenovo\Desktop\新建文件夹\Myform6\Myform6\obj\Debug\Myform6.exe
+C:\Users\lenovo\Desktop\新建文件夹\Myform6\Myform6\obj\Debug\Myform6.pdb

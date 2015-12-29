@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\bin\Debug\Myform5.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\bin\Debug\Myform5.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\Myform5.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\Myform5.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\Myform5.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\Myform5.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform5\Myform5\obj\Debug\Myform5.pdb

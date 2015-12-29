@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\bin\Debug\Myform7.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\bin\Debug\Myform7.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\Myform7.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\Myform7.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\Myform7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\Myform7.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Myform7\Myform7\obj\Debug\Myform7.pdb
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\bin\Debug\Myform7.exe
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\bin\Debug\Myform7.pdb
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\obj\Debug\Myform7.Form1.resources
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\obj\Debug\Myform7.Properties.Resources.resources
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\obj\Debug\Myform7.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\obj\Debug\Myform7.exe
+C:\Users\lenovo\Desktop\新建文件夹\Myform7\Myform7\obj\Debug\Myform7.pdb
