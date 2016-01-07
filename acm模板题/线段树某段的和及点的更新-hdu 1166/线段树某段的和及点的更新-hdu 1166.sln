@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线段树某段的和及点的更新-hdu 1166", "线段树某段的和及点的更新-hdu 1166\线段树某段的和及点的更新-hdu 1166.vcxproj", "{0697E7BA-BA6D-44C5-870C-443D21E689B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0697E7BA-BA6D-44C5-870C-443D21E689B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0697E7BA-BA6D-44C5-870C-443D21E689B5}.Debug|Win32.Build.0 = Debug|Win32
+		{0697E7BA-BA6D-44C5-870C-443D21E689B5}.Release|Win32.ActiveCfg = Release|Win32
+		{0697E7BA-BA6D-44C5-870C-443D21E689B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

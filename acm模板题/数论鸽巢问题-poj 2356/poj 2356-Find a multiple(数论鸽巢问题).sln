@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poj 2356-Find a multiple(数论鸽巢问题)", "poj 2356-Find a multiple(数论鸽巢问题)\poj 2356-Find a multiple(数论鸽巢问题).vcxproj", "{904156A3-A204-4D86-B0B1-7E038EDA2E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904156A3-A204-4D86-B0B1-7E038EDA2E1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{904156A3-A204-4D86-B0B1-7E038EDA2E1A}.Debug|Win32.Build.0 = Debug|Win32
+		{904156A3-A204-4D86-B0B1-7E038EDA2E1A}.Release|Win32.ActiveCfg = Release|Win32
+		{904156A3-A204-4D86-B0B1-7E038EDA2E1A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

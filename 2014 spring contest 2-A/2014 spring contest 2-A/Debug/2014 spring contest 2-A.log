@@ -1,0 +1,24 @@
+﻿生成启动时间为 2014/3/9 10:02:00。
+     1>项目“D:\工作\个人练习\acm\2014 spring contest 2-A\2014 spring contest 2-A\2014 spring contest 2-A.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\工作\个人练习\acm\2014 spring contest 2-A\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\2014 spring contest 2-A.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\工作\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\工作\个人练习\acm\2014 spring contest 2-a\2014 spring contest 2-a\main.cpp(5): warning C4101: “i”: 未引用的局部变量
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\2014 spring contest 2-A.exe.embed.manifest.res" "Debug\2014 spring contest 2-A_manifest.rc" 
+       Link:
+         d:\工作\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\个人练习\acm\2014 spring contest 2-A\Debug\2014 spring contest 2-A.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2014 spring contest 2-A.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\个人练习\acm\2014 spring contest 2-A\Debug\2014 spring contest 2-A.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\个人练习\acm\2014 spring contest 2-A\Debug\2014 spring contest 2-A.lib" /MACHINE:X86 "Debug\2014 spring contest 2-A.exe.embed.manifest.res"
+         Debug\main.obj
+         TRACKER : 错误 TRK0002: 未能执行命令:“d:\工作\VC\bin\link.exe /ERRORREPORT:PROMPT @C:\Users\lenovo\AppData\Local\Temp\tmp4bcae470c4c1464cbff8233ee61d95b6.rsp”。存储控制块地址无效。
+         
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(268,5): error MSB6006: “link.exe”已退出，代码为 2。
+     1>已完成生成项目“D:\工作\个人练习\acm\2014 spring contest 2-A\2014 spring contest 2-A\2014 spring contest 2-A.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.75

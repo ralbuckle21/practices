@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线段树某段的最大最小值-poj 3264", "线段树某段的最大最小值-poj 3264\线段树某段的最大最小值-poj 3264.vcxproj", "{FD8A4B5C-011A-4FDD-8F92-F2C0A016EEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8A4B5C-011A-4FDD-8F92-F2C0A016EEA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD8A4B5C-011A-4FDD-8F92-F2C0A016EEA5}.Debug|Win32.Build.0 = Debug|Win32
+		{FD8A4B5C-011A-4FDD-8F92-F2C0A016EEA5}.Release|Win32.ActiveCfg = Release|Win32
+		{FD8A4B5C-011A-4FDD-8F92-F2C0A016EEA5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
