@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poj 2513-Colored Sticks", "poj 2513-Colored Sticks\poj 2513-Colored Sticks.vcxproj", "{4F557AA8-C1D2-4A41-9650-8C6BEBE14381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F557AA8-C1D2-4A41-9650-8C6BEBE14381}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F557AA8-C1D2-4A41-9650-8C6BEBE14381}.Debug|Win32.Build.0 = Debug|Win32
+		{4F557AA8-C1D2-4A41-9650-8C6BEBE14381}.Release|Win32.ActiveCfg = Release|Win32
+		{4F557AA8-C1D2-4A41-9650-8C6BEBE14381}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
