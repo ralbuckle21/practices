@@ -1,0 +1,28 @@
+﻿生成启动时间为 2013/7/23 13:48:55。
+     1>项目“D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\cf 5C-Longest Regular Bracket Sequence\cf 5C-Longest Regular Bracket Sequence.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cf 5C-Longest Regular Bracket Sequence.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\工作\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\工作\个人练习\acm\cf 5c-longest regular bracket sequence\cf 5c-longest regular bracket sequence\main.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\个人练习\acm\cf 5c-longest regular bracket sequence\cf 5c-longest regular bracket sequence\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\工作\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\Debug\cf 5C-Longest Regular Bracket Sequence.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\cf 5C-Longest Regular Bracket Sequence.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\Debug\cf 5C-Longest Regular Bracket Sequence.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\Debug\cf 5C-Longest Regular Bracket Sequence.lib" /MACHINE:X86 "Debug\cf 5C-Longest Regular Bracket Sequence.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\cf 5C-Longest Regular Bracket Sequence.exe.embed.manifest" /manifest "Debug\cf 5C-Longest Regular Bracket Sequence.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         cf 5C-Longest Regular Bracket Sequence.vcxproj -> D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\Debug\cf 5C-Longest Regular Bracket Sequence.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cf 5C-Longest Regular Bracket Sequence.unsuccessfulbuild”。
+         正在对“Debug\cf 5C-Longest Regular Bracket Sequence.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\个人练习\acm\cf 5C-Longest Regular Bracket Sequence\cf 5C-Longest Regular Bracket Sequence\cf 5C-Longest Regular Bracket Sequence.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.18

@@ -1,0 +1,105 @@
+2798 （状态压缩dp）
+2954 （树dp）
+1031 （完全背包）
+1141 Dividing up
+1163 Unidirectional TSP
+1192 Dollars
+1215 Health Power
+1227 Common Subsequence
+1249 Optimal Array Multiplication Sequence
+1277 Rhyme Schemes
+1288 Bridging Signals
+1297 Special Experiment
+1316 Human Gene Functions
+1402 整数划分问题
+1438 The Tower of Babylon
+1444 Humble Numbers
+1447 Compromise
+1485 A Good Helper
+1496 World Cup Noise
+1525 Largest Rectangle in a Histogram
+1537 Is Bigger Smarter?
+1562 Tiling Up Blocks
+1579 Chopsticks
+1585 Euro Efficiency
+1590 Pearls
+1593 Triangles
+1598 Always On the Run
+1603 Brackets Sequence
+1680 One Person 'The Price is Right'
+1697 Alphacode
+1711 Investment
+1733 Phone numbers
+1738 Land Division Tax
+1754 To Europe! To Europe!
+1755 Test the Rods
+1760 The jackpot
+1780 Decoding Morse Sequences
+1795 Ferry Loading
+1839 Jack
+1852 Tight Words
+1893 Tian Ji -- The Horse Racing
+1894 Islands and Bridges
+1911 Polygon
+1912 Density map
+1936 Brackets
+1942 OS进程调度
+1965 Ferry Loading II
+1977 Recaman's Sequence
+1978 Terrible Sets
+1987 Recursive Function
+1990 Kids Grouping
+1993 lykoo
+2000 Maximum Submatrix
+2014 Tiling
+2024 Lenny's Lucky Lotto Lists
+2048 Decorate the wall
+2056 Bookshelf
+2067 Adding 1s, 2s, and 3s
+2074 Exact Change Only
+2085 Wavio Sequence
+2091 Chess
+2124 Tri Tiling
+2139 Spiderman's workout （搜索也可以过，但要有好的剪枝）
+2145 Tour
+2148 Computer Transformation
+2188 WordStack
+2195 Pascal's Travels
+2196 Job Scheduling by Open Bidding
+2219 Mini Locomotive
+2226 Cleaning Robot
+2257 Sorting
+2262 Spanning trees in a fan
+2317 Pimp My Ride
+2372 Recoup Traveling Expenses
+2376 Chinese Word Segmentation
+2406 The Bavarian Beer Party
+2419 Margaritas on the River Walk
+2421 Hie with the Pie
+2473 Fish Can Fly
+2481 Travel
+2494 Spam
+2500 Party at Hali-Bula （此题有多种解法）
+2503 Bribing FIPA
+2506 Print Words in Lines
+2514 Perfect Service
+2544 Leave an Increasing Sequence
+2547 New Term （此题较综合，除状态压缩 DP 外还包含 Dijkstra 以及拓扑排序等算法，是道不错的题）
+2555 Eating Watermelon
+2558 maxsum
+2559 prefix
+2560 stamps
+2566 Farmer
+2572 Naive Robot
+2574 Sales Promotion
+2582 Game Dice
+2583 Baking Cakes
+2595 Tiling a Grid With Dominoes
+2630 Training of Lord Fish's Fan I
+2637 Calculate Similarity
+2646 Isolated Word Recognition
+2662 Pieces Assignment
+2664 Taking Exercise
+2665 Factory of XiaoE
+2669 Dice Password Security
+2698 Exchange Rates

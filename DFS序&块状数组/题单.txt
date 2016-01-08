@@ -1,0 +1,16 @@
+dfs序 
+简单题
+POJ 3321
+HDU 3887
+BZOJ 1103
+难题
+BZOJ 3083
+Spoj OTOCI
+
+
+分块哈希
+HDU 4391
+块状链表
+BZOJ 1507
+POJ 2131
+BZOJ 1500
