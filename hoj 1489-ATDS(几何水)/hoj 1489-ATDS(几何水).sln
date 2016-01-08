@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hoj 1489-ATDS(几何水)", "hoj 1489-ATDS(几何水)\hoj 1489-ATDS(几何水).vcxproj", "{7E6E567F-7AAC-4016-A156-F2023AEE3AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6E567F-7AAC-4016-A156-F2023AEE3AD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E6E567F-7AAC-4016-A156-F2023AEE3AD6}.Debug|Win32.Build.0 = Debug|Win32
+		{7E6E567F-7AAC-4016-A156-F2023AEE3AD6}.Release|Win32.ActiveCfg = Release|Win32
+		{7E6E567F-7AAC-4016-A156-F2023AEE3AD6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

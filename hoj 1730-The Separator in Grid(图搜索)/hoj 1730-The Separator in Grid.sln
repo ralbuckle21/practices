@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hoj 1730-The Separator in Grid", "hoj 1730-The Separator in Grid\hoj 1730-The Separator in Grid.vcxproj", "{6214C4BB-7B1A-44C9-81C7-53189EC0F340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6214C4BB-7B1A-44C9-81C7-53189EC0F340}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6214C4BB-7B1A-44C9-81C7-53189EC0F340}.Debug|Win32.Build.0 = Debug|Win32
+		{6214C4BB-7B1A-44C9-81C7-53189EC0F340}.Release|Win32.ActiveCfg = Release|Win32
+		{6214C4BB-7B1A-44C9-81C7-53189EC0F340}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

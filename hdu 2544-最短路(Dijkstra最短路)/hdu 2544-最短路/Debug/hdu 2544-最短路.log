@@ -1,0 +1,17 @@
+﻿生成启动时间为 2014/3/16 9:57:50。
+     1>项目“D:\工作\个人练习\acm\hdu 2544-最短路(Dijkstra最短路)\hdu 2544-最短路\hdu 2544-最短路.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\hdu 2544-最短路.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\hdu 2544-最短路.exe.embed.manifest.res" "Debug\hdu 2544-最短路_manifest.rc" 
+       Link:
+         d:\工作\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\个人练习\acm\hdu 2544-最短路(Dijkstra最短路)\Debug\hdu 2544-最短路.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hdu 2544-最短路.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\个人练习\acm\hdu 2544-最短路(Dijkstra最短路)\Debug\hdu 2544-最短路.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\个人练习\acm\hdu 2544-最短路(Dijkstra最短路)\Debug\hdu 2544-最短路.lib" /MACHINE:X86 "Debug\hdu 2544-最短路.exe.embed.manifest.res"
+         Debug\main.obj
+     1>LINK : fatal error LNK1158: 无法运行“d:\工作\VC\bin\cvtres.exe”
+     1>已完成生成项目“D:\工作\个人练习\acm\hdu 2544-最短路(Dijkstra最短路)\hdu 2544-最短路\hdu 2544-最短路.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.50

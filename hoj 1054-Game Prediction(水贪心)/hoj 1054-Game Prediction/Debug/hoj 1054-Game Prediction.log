@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/3/16 9:57:24。
+     1>项目“D:\工作\个人练习\acm\hoj 1054-Game Prediction(水贪心)\hoj 1054-Game Prediction\hoj 1054-Game Prediction.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\hoj 1054-Game Prediction.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hoj 1054-Game Prediction.unsuccessfulbuild”。
+         正在对“Debug\hoj 1054-Game Prediction.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\个人练习\acm\hoj 1054-Game Prediction(水贪心)\hoj 1054-Game Prediction\hoj 1054-Game Prediction.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.25

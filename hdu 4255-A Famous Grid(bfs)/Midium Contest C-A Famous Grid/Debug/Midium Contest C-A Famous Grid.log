@@ -1,0 +1,17 @@
+﻿生成启动时间为 2014/3/9 14:20:10。
+     1>项目“D:\工作\个人练习\acm\hdu 4255-A Famous Grid(bfs)\Midium Contest C-A Famous Grid\Midium Contest C-A Famous Grid.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Midium Contest C-A Famous Grid.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Midium Contest C-A Famous Grid.exe.embed.manifest.res" "Debug\Midium Contest C-A Famous Grid_manifest.rc" 
+         TRACKER : 错误 TRK0002: 未能执行命令:“"c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe" /nologo "/foDebug\Midium Contest C-A Famous Grid.exe.embed.manifest.res" "Debug\Midium Contest C-A Famous Grid_manifest.rc"”。存储控制块地址无效。
+         
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(707,5): error MSB6006: “rc.exe”已退出，代码为 2。
+     1>已完成生成项目“D:\工作\个人练习\acm\hdu 4255-A Famous Grid(bfs)\Midium Contest C-A Famous Grid\Midium Contest C-A Famous Grid.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21

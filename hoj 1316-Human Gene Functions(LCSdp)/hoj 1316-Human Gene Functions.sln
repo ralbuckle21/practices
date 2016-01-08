@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hoj 1316-Human Gene Functions", "hoj 1316-Human Gene Functions\hoj 1316-Human Gene Functions.vcxproj", "{ABD606EC-617F-4153-86D5-6F652803A4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD606EC-617F-4153-86D5-6F652803A4AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABD606EC-617F-4153-86D5-6F652803A4AB}.Debug|Win32.Build.0 = Debug|Win32
+		{ABD606EC-617F-4153-86D5-6F652803A4AB}.Release|Win32.ActiveCfg = Release|Win32
+		{ABD606EC-617F-4153-86D5-6F652803A4AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

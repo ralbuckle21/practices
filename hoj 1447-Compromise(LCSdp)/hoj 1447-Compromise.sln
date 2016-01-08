@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hoj 1447-Compromise", "hoj 1447-Compromise\hoj 1447-Compromise.vcxproj", "{F790CF92-9B22-4030-9F1C-EF14DAA6E8D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F790CF92-9B22-4030-9F1C-EF14DAA6E8D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F790CF92-9B22-4030-9F1C-EF14DAA6E8D3}.Debug|Win32.Build.0 = Debug|Win32
+		{F790CF92-9B22-4030-9F1C-EF14DAA6E8D3}.Release|Win32.ActiveCfg = Release|Win32
+		{F790CF92-9B22-4030-9F1C-EF14DAA6E8D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

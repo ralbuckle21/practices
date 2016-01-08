@@ -1,0 +1,34 @@
+﻿生成启动时间为 2013/8/5 13:29:01。
+     1>项目“D:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\hdu 2896-病毒侵袭.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\工作\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\main.cpp(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\工作\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\main.cpp(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\工作\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\main.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\工作\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\main.cpp(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\工作\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\工作\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\个人练习\acm\hdu 2896-病毒侵袭\Debug\hdu 2896-病毒侵袭.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hdu 2896-病毒侵袭.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\个人练习\acm\hdu 2896-病毒侵袭\Debug\hdu 2896-病毒侵袭.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\个人练习\acm\hdu 2896-病毒侵袭\Debug\hdu 2896-病毒侵袭.lib" /MACHINE:X86 "Debug\hdu 2896-病毒侵袭.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\hdu 2896-病毒侵袭.exe.embed.manifest" /manifest "Debug\hdu 2896-病毒侵袭.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         hdu 2896-病毒侵袭.vcxproj -> D:\工作\个人练习\acm\hdu 2896-病毒侵袭\Debug\hdu 2896-病毒侵袭.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hdu 2896-病毒侵袭.unsuccessfulbuild”。
+         正在对“Debug\hdu 2896-病毒侵袭.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\个人练习\acm\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭\hdu 2896-病毒侵袭.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.09
